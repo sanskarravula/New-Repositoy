@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34112.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloTeamcity", "HelloTeamcity.csproj", "{8C9E45AB-6CCE-4B28-8B3C-70175694B186}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloTeamcity.Console", "..\HelloTeamcity.Console\HelloTeamcity.Console.csproj", "{69408D31-63EE-4359-A262-97F74728685F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C9E45AB-6CCE-4B28-8B3C-70175694B186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C9E45AB-6CCE-4B28-8B3C-70175694B186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C9E45AB-6CCE-4B28-8B3C-70175694B186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C9E45AB-6CCE-4B28-8B3C-70175694B186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69408D31-63EE-4359-A262-97F74728685F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69408D31-63EE-4359-A262-97F74728685F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69408D31-63EE-4359-A262-97F74728685F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69408D31-63EE-4359-A262-97F74728685F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F1FBE20-F72A-4042-80C7-A6530932A613}
+	EndGlobalSection
+EndGlobal
