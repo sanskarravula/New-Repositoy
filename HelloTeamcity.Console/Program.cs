@@ -10,6 +10,7 @@ namespace HelloTeamcity.Console
     {
         static void Main(string[] args)
         {
+            System.Console.WriteLine("Hello Teamcity");
         }
     }
 }
